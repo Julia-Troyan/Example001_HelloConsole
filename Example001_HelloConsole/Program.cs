@@ -1,2 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("2 Hello, World!");
+﻿// Ты всё сможешь, тебе только кажется, что тяжело!
+using System.Net.Security;
+
+Console.WriteLine("Hello world");
