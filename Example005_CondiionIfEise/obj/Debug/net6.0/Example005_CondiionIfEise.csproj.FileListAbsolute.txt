@@ -1,0 +1,15 @@
+C:\Users\Юлия\Desktop\Программирование лекции и семинары\Лекция 1\Examples\Example005_CondiionIfEise\bin\Debug\net6.0\Example005_CondiionIfEise.exe
+C:\Users\Юлия\Desktop\Программирование лекции и семинары\Лекция 1\Examples\Example005_CondiionIfEise\bin\Debug\net6.0\Example005_CondiionIfEise.deps.json
+C:\Users\Юлия\Desktop\Программирование лекции и семинары\Лекция 1\Examples\Example005_CondiionIfEise\bin\Debug\net6.0\Example005_CondiionIfEise.runtimeconfig.json
+C:\Users\Юлия\Desktop\Программирование лекции и семинары\Лекция 1\Examples\Example005_CondiionIfEise\bin\Debug\net6.0\Example005_CondiionIfEise.dll
+C:\Users\Юлия\Desktop\Программирование лекции и семинары\Лекция 1\Examples\Example005_CondiionIfEise\bin\Debug\net6.0\Example005_CondiionIfEise.pdb
+C:\Users\Юлия\Desktop\Программирование лекции и семинары\Лекция 1\Examples\Example005_CondiionIfEise\obj\Debug\net6.0\Example005_CondiionIfEise.csproj.AssemblyReference.cache
+C:\Users\Юлия\Desktop\Программирование лекции и семинары\Лекция 1\Examples\Example005_CondiionIfEise\obj\Debug\net6.0\Example005_CondiionIfEise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Юлия\Desktop\Программирование лекции и семинары\Лекция 1\Examples\Example005_CondiionIfEise\obj\Debug\net6.0\Example005_CondiionIfEise.AssemblyInfoInputs.cache
+C:\Users\Юлия\Desktop\Программирование лекции и семинары\Лекция 1\Examples\Example005_CondiionIfEise\obj\Debug\net6.0\Example005_CondiionIfEise.AssemblyInfo.cs
+C:\Users\Юлия\Desktop\Программирование лекции и семинары\Лекция 1\Examples\Example005_CondiionIfEise\obj\Debug\net6.0\Example005_CondiionIfEise.csproj.CoreCompileInputs.cache
+C:\Users\Юлия\Desktop\Программирование лекции и семинары\Лекция 1\Examples\Example005_CondiionIfEise\obj\Debug\net6.0\Example005_CondiionIfEise.dll
+C:\Users\Юлия\Desktop\Программирование лекции и семинары\Лекция 1\Examples\Example005_CondiionIfEise\obj\Debug\net6.0\refint\Example005_CondiionIfEise.dll
+C:\Users\Юлия\Desktop\Программирование лекции и семинары\Лекция 1\Examples\Example005_CondiionIfEise\obj\Debug\net6.0\Example005_CondiionIfEise.pdb
+C:\Users\Юлия\Desktop\Программирование лекции и семинары\Лекция 1\Examples\Example005_CondiionIfEise\obj\Debug\net6.0\Example005_CondiionIfEise.genruntimeconfig.cache
+C:\Users\Юлия\Desktop\Программирование лекции и семинары\Лекция 1\Examples\Example005_CondiionIfEise\obj\Debug\net6.0\ref\Example005_CondiionIfEise.dll
