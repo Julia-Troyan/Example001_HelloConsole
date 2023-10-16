@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Юлия\\Desktop\\Examples\\Example004_Div\\Example004_Div.csproj": {}
+    "C:\\Users\\Юлия\\Desktop\\Программирование лекции и семинары\\Лекция 1\\Examples\\Example004_Div\\Example004_Div.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Юлия\\Desktop\\Examples\\Example004_Div\\Example004_Div.csproj": {
+    "C:\\Users\\Юлия\\Desktop\\Программирование лекции и семинары\\Лекция 1\\Examples\\Example004_Div\\Example004_Div.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Юлия\\Desktop\\Examples\\Example004_Div\\Example004_Div.csproj",
+        "projectUniqueName": "C:\\Users\\Юлия\\Desktop\\Программирование лекции и семинары\\Лекция 1\\Examples\\Example004_Div\\Example004_Div.csproj",
         "projectName": "Example004_Div",
-        "projectPath": "C:\\Users\\Юлия\\Desktop\\Examples\\Example004_Div\\Example004_Div.csproj",
+        "projectPath": "C:\\Users\\Юлия\\Desktop\\Программирование лекции и семинары\\Лекция 1\\Examples\\Example004_Div\\Example004_Div.csproj",
         "packagesPath": "C:\\Users\\Юлия\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Юлия\\Desktop\\Examples\\Example004_Div\\obj\\",
+        "outputPath": "C:\\Users\\Юлия\\Desktop\\Программирование лекции и семинары\\Лекция 1\\Examples\\Example004_Div\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Юлия\\AppData\\Roaming\\NuGet\\NuGet.Config"
